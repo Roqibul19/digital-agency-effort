@@ -25,7 +25,8 @@
 .banner-container{
     display: flex;
     height: 100vh;
-    background:linear-gradient(#ffff0000,#0000008f),url("../asset/image/background.jpg");
+    background:linear-gradient(#ffff0000,#0000008f);
+    background-image: url("../asset/image/background.jpg");
     
     /* background-image:url("/asset/image/background.jpg"); */
     
